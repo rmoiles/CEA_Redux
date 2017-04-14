@@ -8,10 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "CEA_Redux"
+    "url": "git+https://github.com/rmoiles/CEA_Redux.git"
   },
   "author": "Robert Moiles",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmoiles/CEA_Redux/issues"
+  },
+  "homepage": "https://github.com/rmoiles/CEA_Redux#readme",
   "dependencies": {
     "redux": "^3.6.0"
   },
